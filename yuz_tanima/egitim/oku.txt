@@ -1,0 +1,1 @@
+Bu kısma eğitim kodu çalıştırılınca train dosyası düşecektir.
