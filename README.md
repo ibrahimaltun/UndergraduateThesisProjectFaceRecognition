@@ -1,6 +1,6 @@
 # LisansBitirmeYuzTanimaKodu
  
- ##Proje Adımları  
+ ## Proje Adımları  
  
  1) Öncelikli olarak tanınmasını istediğimiz yüzler eklenerek veriseti oluşturulur. 
  2) Ardından bu veri setleri LBPH ile eğitilir. 
