@@ -1,3 +1,10 @@
+# Usage Steps
+* First, faces to be recognized are added to create a dataset.
+* Then, these datasets are trained with LBPH algorithm.
+* Finally, a face is shown to the camera; if recognized, the name given during registration is written, if not recognized, the phrase 'unknown' is placed over the face.
+
+
+# TR
 # LisansBitirmeProjesiYuzTanimaKodu
  
  ## Proje Adımları  
